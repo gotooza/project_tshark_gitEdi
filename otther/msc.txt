@@ -1,0 +1,14 @@
+# test
+msc {
+  hscale = "1";
+
+  a,
+  b,
+  c,
+  d;
+
+  a=>>b [ label = "ab()" ] ;
+  b=>>c [ label = "bc(TRUE)"];  
+  a<<=b [ label = "ab() = FALSE"];
+  d=>>a [ label = "ab()" ] ;
+}

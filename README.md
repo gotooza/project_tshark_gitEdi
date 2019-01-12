@@ -53,6 +53,7 @@ Cygwinはなんやんややるからインストールめちゃ時間かかる�
 * PowerShellの実行セキュリティポリシーを変更
 	+ 一応やっときましょ
 	+ verは2.0以上だったらいけるはず
+	+ デジタル署名の追加もお忘れなく
 
 # フォルダ構成
 <p><img src="https://qiita-image-store.s3.amazonaws.com/0/93932/6f74fa90-a295-c9a2-c092-f0d1d758c523.png" width="250" height="350"></p>

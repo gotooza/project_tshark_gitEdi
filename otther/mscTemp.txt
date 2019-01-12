@@ -1,0 +1,8 @@
+a# test
+msc {
+  hscale = "1";
+
+  "src" or "dst" filtering entities;
+
+  "src" =>> "dst" [ label = "info" ];
+}

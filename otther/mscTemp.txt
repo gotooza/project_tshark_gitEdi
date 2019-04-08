@@ -1,4 +1,4 @@
-a# test
+# test
 msc {
   hscale = "1";
 
